@@ -4,4 +4,4 @@ Something
 Hey! 
 
 Not sure what to put here.
-I enjoy coding and stuff I guess.
+I enjoy programming and stuff I guess.
